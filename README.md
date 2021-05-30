@@ -3,7 +3,7 @@
 
 Готовность `90%`
 
-![](https://https://github.com/Areave/resto/blob/master/public/screen.png)
+![](https://github.com/Areave/resto/blob/master/public/screen.png)
 
 
 - Небольшое приложение, собирающее данные с локальной БД, и выводящее в виде карточек. Управление состоянием через Redux, так же используется React.Context
